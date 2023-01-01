@@ -16,6 +16,8 @@ Student | Tech Enthusiast, python is love. <br>Learn by doing.<br>
 ![](https://github-profile-trophy.vercel.app/?username=rahs0601&theme=radical&no-frame=true&no-bg=true&margin-w=4)
 
 ---
-[![](https://visitcount.itsvg.in/api?id=rahs0601&icon=0&color=0)](https://visitcount.itsvg.in)
-
+[![](https://visitcount.itsvg.in/api?id=Rahs0601&label=Profile%20Views&pretty=false)](https://visitcount.itsvg.in)
+<a href="https://visitcount.itsvg.in">
+  <img src="https://visitcount.itsvg.in/api?id=Rahs0601&label=Profile%20Views&pretty=false" />
+</a>
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
