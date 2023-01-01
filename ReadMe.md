@@ -17,7 +17,4 @@ Student | Tech Enthusiast, python is love. <br>Learn by doing.<br>
 
 ---
 [![](https://visitcount.itsvg.in/api?id=Rahs0601&label=Profile%20Views&pretty=false)](https://visitcount.itsvg.in)
-<a href="https://visitcount.itsvg.in">
-  <img src="https://visitcount.itsvg.in/api?id=Rahs0601&label=Profile%20Views&pretty=false" />
-</a>
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
