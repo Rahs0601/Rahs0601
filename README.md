@@ -1,5 +1,5 @@
 # 💫 About Me:
-Hi! My name is Rahul Shettigar and I am currently a student studying Electronics and Communication Engineering. In my free time, I enjoy learning about and working on projects related to programming, specifically using Python. I am also interested in machine learning and have been working on projects in this field as well. I love to build things and am always looking for new opportunities to explore and optimize solutions.
+Greetings! I go by the moniker "The Python Guy". I am currently pursuing a degree in Electronics and Communication Engineering and my name is Rahul Shettigar. During my leisure time, I indulge in the pursuit of knowledge and practical application of programming concepts, with a particular emphasis on Python. My interests also extend to machine learning, where I have been actively engaged in project development. I derive great satisfaction from building things and am constantly on the lookout for fresh prospects to enhance and refine my problem-solving skills.
 
 
 ## 🌐 Socials:
