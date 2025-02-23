@@ -1,8 +1,9 @@
-# 💫 About Me:
-Greetings! I go by the moniker "The Python Guy". I am currently pursuing a degree in Electronics and Communication Engineering and my name is Rahul Shettigar. During my leisure time, I indulge in the pursuit of knowledge and practical application of programming concepts, with a particular emphasis on Python. My interests also extend to machine learning, where I have been actively engaged in project development. I derive great satisfaction from building things and am constantly on the lookout for fresh prospects to enhance and refine my problem-solving skills.
+# Hi, I'm Rahul N Shettigar 👋
 
+## 👨‍💻 About Me
+I'm a results-driven AI-Software Engineer specializing in designing, deploying, and optimizing scalable AI/ML infrastructures for production-grade large language models (LLMs). I excel in building end-to-end AI solutions—from data engineering and model development to MLOps and container orchestration—that enhance system efficiency, uptime, and cost-effectiveness. I’m passionate about leveraging cutting-edge technology to solve real-world problems and continuously refining my skill set.
 
-## 🌐 Socials:
+## 📫 How to Reach Me
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/rahs_since2002) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/rahul-shettigar-77bb19192) [![Quora](https://img.shields.io/badge/Quora-%23B92B27.svg?logo=Quora&logoColor=white)](https://quora.com/profile/Rahul-Shettigar-7) [![Stack Overflow](https://img.shields.io/badge/-Stackoverflow-FE7A16?logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/17272372/rahul-shettigar) [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/rahs0621) 
 
 # 💻 Tech Stack:
