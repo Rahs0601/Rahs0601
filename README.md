@@ -1,4 +1,4 @@
-# Hi there 👋! I'm Rahul N Shettigar, also known as The Python Guy. 
+# Hi there 👋! I'm Rahul N Shettigar.
 
 ## 👨‍💻 About Me
 I'm a Software Engineer with a passion for crafting scalable AI/ML solutions that drive real-world impact. I specialize in designing, deploying, and optimizing production-grade systems using Python and cutting-edge technologies. Whether I'm building autonomous agent systems or fine-tuning large language models, I'm always exploring innovative ways to solve complex problems. When I'm not immersed in code, you'll likely find me diving into the latest trends in machine learning or experimenting with new tools to streamline processes. Welcome to my GitHub profile—let's innovate and build amazing things together!
